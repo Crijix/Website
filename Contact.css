@@ -1,0 +1,65 @@
+body {
+	margin: 0;
+	height: 733px;
+	
+	background-image: url(images/blue.jpg);
+	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	font: 400 15px/1.8 "Lato", sans-serif;
+  	color: #777;
+}
+
+.Contact {
+	font-family: "Arial Black";
+	text-align: center;
+	padding: 300px 20px;
+	font-size: 30px
+}
+
+.nav {
+	overflow: hidden;
+	background-color: #333;
+}
+
+.nav a {
+	float: right;
+	display: block;
+	background-color: #333;
+	padding: 10px 16px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+
+.nav a:hover {
+	background-color: lightgray;
+	color: black;
+	text-decoration: underline black;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #333;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
