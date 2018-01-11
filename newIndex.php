@@ -131,7 +131,7 @@
 		</div>
 	</div>
 		<br>
-	<div>
+	<div style="text-align: center;">
 		<span>
 			<iframe src="https://calendar.google.com/calendar/embed?title=ICS%20File&amp;showPrint=0&amp;showTz=0&amp;height=350&amp;wkst=1&amp;bgcolor=%2333ffff&amp;src=smb6iasflsp0p89s3t7osvau74%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Europe%2FCopenhagen" style="border:solid 1px #777" width="450" height="350" frameborder="0" scrolling="no"></iframe>
 
